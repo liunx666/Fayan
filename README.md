@@ -1,6 +1,6 @@
 \# 法眼(Fayan)
 
-AI智能合同审查助手。基于FastAPI + Vue3 + Langchain，支持PDF/图片多格式上传，自动提取关键条款并输出风险报告
+AI智能合同审查助手。基于FastAPI + Vue3 + Langchain，支持PDF/图片多格式上传，自动提取关键条款并输出风险报告。
 
 
 
@@ -18,5 +18,5 @@ AI智能合同审查助手。基于FastAPI + Vue3 + Langchain，支持PDF/图片
 
 \- AI核心: LangChain + OpenAi
 
-\-git
+\- git 
 
