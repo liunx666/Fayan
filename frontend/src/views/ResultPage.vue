@@ -1,10 +1,10 @@
 <script setup>
-import { RouterView } from 'vue-router';
 
 </script>
 
 <template>
-  <RouterView></RouterView>
+<!-- 显示审查页面 -->
+
 </template>
 
 <style scoped></style>

@@ -1,0 +1,5 @@
+fastapi~=0.137.1
+pip install python-multipart
+pip install python-docx PyPDF2
+pip install langchain==1.0.7
+pip install langchain-openai==1.0.3
